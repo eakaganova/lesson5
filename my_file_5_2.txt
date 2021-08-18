@@ -1,0 +1,1 @@
+{'Ivanov' 10000, 'Petrov' 40000, 'Alekseeva' 500000, 'Martova' 150000}
