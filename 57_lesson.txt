@@ -1,0 +1,4 @@
+company1 000 100 200
+company2 001 500 300
+company3 002 300 400
+company4 003 800 400
